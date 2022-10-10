@@ -2,6 +2,7 @@ from unicodedata import digit
 
 
 print("Hiii Pantaaaaaaa")
+print("python program")
 num=1234
 rev=0
 
